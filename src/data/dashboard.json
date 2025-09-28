@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "CSPM ",
+    "widgets": []
+  },
+  {
+    "id": 2,
+    "name": "CWPP",
+    "widgets": []
+  },
+  {
+    "id": 3,
+    "name": "Images",
+    "widgets": []
+  },
+  {
+    "id": 4,
+    "name": "Ticket",
+    "widgets": []
+  }
+]
