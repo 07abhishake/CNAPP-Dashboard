@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/CNAPP-Dashboard/static/js/main.e8a66000.js",
+    "index.html": "/CNAPP-Dashboard/index.html",
+    "main.e8a66000.js.map": "/CNAPP-Dashboard/static/js/main.e8a66000.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e8a66000.js"
+  ]
+}
