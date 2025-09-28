@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Porject Link : https://cnppdashboard.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
